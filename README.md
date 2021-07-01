@@ -1,4 +1,4 @@
 # Demo
-for practice
+practice
 
 Description
